@@ -3,12 +3,12 @@
 /**
  * main - entry point
  *
- * Discription: putchar
+ * Discription:putchar
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-putchar("\n");
+putchar('\n');
 return (0);
 }
