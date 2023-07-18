@@ -9,10 +9,10 @@
  */
 int main(void)
 {
-return printing();
+return _putchar();
 }
-int printing(void)
+int _putchar(char c)
 {
-putchar('\n');
+_putchar('\n');
 return (0);
 }
