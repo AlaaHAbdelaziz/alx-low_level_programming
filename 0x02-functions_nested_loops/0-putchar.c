@@ -9,6 +9,10 @@
  */
 int main(void)
 {
+return printing();
+}
+int printing(void)
+{
 putchar('\n');
 return (0);
 }
