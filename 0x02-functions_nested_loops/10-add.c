@@ -3,6 +3,9 @@
 /**
  * add - adds two integers
  *
+ * @n1: integre 1
+ * @n2: integer 2
+ *
  * Discription: adds two integers
  *
  * Return: result
