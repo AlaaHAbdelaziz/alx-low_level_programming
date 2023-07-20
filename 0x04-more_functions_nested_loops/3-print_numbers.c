@@ -4,6 +4,7 @@
 /**
  * print_numbers - prints numbers
  *
+ * @i: integer one
  * Discription: prints numbers rom 0 to 9
  *
  * Return: numbers
