@@ -12,9 +12,11 @@
  */
 int _isupper(int c)
 {
-while (C <= 'A' || c >= 'Z')
+char a = 'A';
+while (a <= 'A' && a >= 'Z')
 {
-_putchar(1);
+c = 1;
+putchar(c);
 }
 return (0);
 }
