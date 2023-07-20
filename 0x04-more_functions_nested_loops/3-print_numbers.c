@@ -3,9 +3,6 @@
 
 /**
  * print_numbers - prints numbers
- *
- * Discription: prints numbers rom 0 to 9
- *
  * Return: Always 0
  */
 void print_numbers(void)
