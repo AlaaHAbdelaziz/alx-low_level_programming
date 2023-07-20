@@ -12,11 +12,5 @@
  */
 int _isupper(int c)
 {
-char a = 'A';
-while (a <= 'A' && a >= 'Z')
-{
-c = 1;
-putchar(c);
-}
-return (0);
+return (c >= 'A' && c <= 'Z');
 }
