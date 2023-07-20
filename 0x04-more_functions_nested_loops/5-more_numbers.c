@@ -11,7 +11,7 @@ int i, j;
 for (j = 0; j < 14; j++)
 {
 for (i = 0; i < 10; i++)
-_putchar(i + '0');
-_putchar('\n');
+putchar(i + '0');
+putchar('\n');
 }
 }
