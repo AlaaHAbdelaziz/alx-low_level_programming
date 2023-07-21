@@ -17,7 +17,7 @@ for (j = 0; j < i; j++)
 {
 putchar(' ');
 putchar('\\');
-putchar('_');
+putchar('\n');
 }
 putchar('\n');
 }
