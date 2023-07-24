@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 /**
- * swap_int(*a, *b) - swap values of two integers a and b
+ * swap_int - swap values of two integers a and b
  * Description: this functions swaps values for two integrs
- * @a: int 1
- * @b: int 2
- * Return: 0
+ * @a: pointer 1
+ * @b: pointer 2
+ * Return: Nothing
  */
 void swap_int(int *a, int *b)
 {
