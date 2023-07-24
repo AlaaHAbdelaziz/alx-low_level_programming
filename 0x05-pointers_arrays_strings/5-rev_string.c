@@ -22,5 +22,4 @@ tmp = s[i];
 s[i] = s[j];
 s[j] = tmp;
 }
-putchar('\n');
 }
