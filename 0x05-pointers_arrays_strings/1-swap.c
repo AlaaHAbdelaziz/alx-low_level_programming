@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 /**
- * swap_int(*a, *b) - swap values of two integers
+ * swap_int(*a, *b) - swap values of two integers a and b
+ * Description: this functions swaps values for two integrs
  * @a: int 1
  * @b: int 2
  * Return: 0
