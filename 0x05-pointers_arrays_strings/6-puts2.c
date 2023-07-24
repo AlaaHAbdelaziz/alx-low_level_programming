@@ -15,9 +15,10 @@ while (str[i] != '\0')
 {
 i++;
 }
-for (i = 0; str[i] % 2 == '0'; i++)
+if (str[i] % 2 == 0)
 {
 putchar(s[i]);
 }
+i++;
 putchar('\n');
 }
