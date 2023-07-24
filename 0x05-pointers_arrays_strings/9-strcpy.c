@@ -5,7 +5,7 @@
  * *_strcpy - copies the string
  * Description: copies the string
  * @dest: char 1
- * @src: char2 
+ * @src: char2
  * Return: 0
  */
 char *_strcpy(char *dest, char *src)
