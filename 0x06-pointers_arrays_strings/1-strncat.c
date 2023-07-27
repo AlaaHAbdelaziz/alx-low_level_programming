@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * _strcat -  concatenates two strings
- * Description:  concatenates two strings.
+ * _strncat -  concatenates two strings
+ * Description: concatenates two strings for n bytes
  * @dest: string 1
  * @src: string 2
  * @n: number of bytes
