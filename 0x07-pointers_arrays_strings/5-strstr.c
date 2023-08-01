@@ -5,7 +5,7 @@
  * _strstr -  locates a substring
  * Description:  locates a substring
  * @haystack: char 1
- * @needle: char 2 
+ * @needle: char 2
  * Return: 0
  */
 char *_strstr(char *haystack, char *needle)
