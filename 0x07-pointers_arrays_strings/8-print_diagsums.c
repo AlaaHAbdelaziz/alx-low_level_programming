@@ -5,6 +5,7 @@
  * print_diagsums - prints the sum of the two diagonals
  * Description: prints the sum of the two diagonals
  * @a: pointer 1
+ * @size: int 1
  * Return: 0
  */
 void print_diagsums(int *a, int size)
