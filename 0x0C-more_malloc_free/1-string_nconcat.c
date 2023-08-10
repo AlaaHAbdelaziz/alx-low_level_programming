@@ -6,7 +6,7 @@
  * Description: concatenates two strings
  * @s1: char 1
  * @s2: char 2
- * @n : unsigned int 
+ * @n : unsigned int
  * Return: 0
  */
 char *string_nconcat(char *s1, char *s2, unsigned int n)
