@@ -2,9 +2,7 @@
 
 /*
  * main - prints file name
- * Description: prints file name
- * @i: int 1
- * @t: char 1
+ *
  * return: 0
  */
 
