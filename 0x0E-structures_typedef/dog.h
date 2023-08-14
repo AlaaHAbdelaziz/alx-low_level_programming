@@ -1,5 +1,5 @@
-#ifndef s
-#define s
+#ifndef DOG_H
+#define DOG_H
 
 /**
  * struct dog - defines a group of variables
