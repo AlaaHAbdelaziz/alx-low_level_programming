@@ -1,6 +1,5 @@
 #ifndef s
 #define s
-#include <stdio.h>
 
 /**
  * struct dog - defines a group of variables
