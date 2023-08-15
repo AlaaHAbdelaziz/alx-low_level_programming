@@ -3,7 +3,7 @@
 
 /**
  * struct dog - defines a group of variables
- *
+ * dog_t: the new struct dog name
  * @name: char 1
  * @age: float 1
  * @owner: char1
