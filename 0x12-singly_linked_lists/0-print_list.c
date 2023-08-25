@@ -1,4 +1,6 @@
+#include <stdio.h>
 #include "lists.h"
+#include <stdlib.h>
 
 /**
  * size_t print_list - function that prints all the elements of list
