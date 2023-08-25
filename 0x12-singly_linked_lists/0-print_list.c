@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * size_t print_list - function that prints all the elements of list
+ * print_list - function that prints all the elements of list
  * @h: pointer
  * Return: number of nodes
  */
